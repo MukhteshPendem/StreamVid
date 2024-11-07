@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/MukhteshPendem/StreamVid-Backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/MukhteshPendem/StreamVidFrontend.git
